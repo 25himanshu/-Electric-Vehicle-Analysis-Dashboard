@@ -1,8 +1,5 @@
 # -Electric-Vehicle-Analysis-Dashboard
 his project analyzes electric vehicle data to uncover trends in EV adoption, top manufacturers, and regional usage. It includes interactive visuals and insights using tools like Power BI
-
-# ⚡ Electrical Vehicle Analysis Dashboard
-
 This dynamic, interactive data visualization tool explores electric vehicle (EV) data, focusing on key metrics, trends, and comparisons to help understand adoption patterns, vehicle performance, and infrastructure availability.
 
 ---
