@@ -18,7 +18,8 @@ This dynamic, interactive data visualization tool explores electric vehicle (EV)
 
 The dataset contains information on electric vehicle registrations, battery range, energy efficiency, vehicle type, and charging infrastructure across different regions.
 
-> *(Electric_Vehicle_Population_Data.csv, e.g., Kaggle, government EV database, etc.)*
+> 📁 [Download/View Dataset](./Electric_Vehicle_Population_Data.csv)
+
 
 ---
 
@@ -64,6 +65,7 @@ To provide a clear, data-driven overview of the electric vehicle ecosystem, reve
 
 ## 📬 Contact
 
-For feedback or collaboration, feel free to [email me](himanshukhade78@gmail.com).
+  For feedback or collaboration, feel free to [email me](mailto:himanshukhade78@gmail.com).
+
 
 
